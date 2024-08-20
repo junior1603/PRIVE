@@ -1003,8 +1003,8 @@ input::placeholder,textarea::placeholder {
     background-color: #2d2d2d;
 }
 .gallery-items{
-    width: 578px;
-    height: 850px;
+    width: 550px;
+    height: 772px;
     border: 10px solid #070101;
     box-shadow: 5px 5px 5px #0006;
     flex-grow: 1;
