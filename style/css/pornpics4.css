@@ -1016,8 +1016,8 @@ input::placeholder,textarea::placeholder {
     object-fit: cover;
 }
 .gallery-items2{
-    width: 867px;
-    height: 600px;
+    width: 817px;
+    height: 550px;
     border: 10px solid #070101;
     box-shadow: 5px 5px 5px #0006;
     flex-grow: 1;
